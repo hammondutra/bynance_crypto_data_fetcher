@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Simulate GBM asset price paths and visualize with matplotlib.
 Outputs simple descriptive statistics for terminal prices.
